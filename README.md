@@ -34,4 +34,4 @@ How did you make this program maintainable, readable, and adaptable?
 
 - To make this program more readable I tried to provide ample comments so that every line was understandable.
 - This program needs further work to be more maintainbale and adaptable.
-- As it stands now it is failry hard set without being able to easily make changes without breaking something.
+- As it stands now it is failry hard to easily make changes without breaking something.
